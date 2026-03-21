@@ -1,0 +1,37 @@
+name: Question / Support
+description: Ask a usage question or request help
+title: "[Question]: "
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for questions about using the app.
+        For bugs, please use the bug report form.
+
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: What do you want to know?
+      placeholder: Ask your question here
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: What are you trying to accomplish?
+      placeholder: Explain your goal and what you already tried
+    validations:
+      required: false
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Relevant app version, OS, device, etc.
+      placeholder: Add details if needed
+    validations:
+      required: false
