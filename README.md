@@ -29,7 +29,7 @@ Please be respectful and constructive. See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.
 
 Get the app on iPhone and iPad now:
 
-[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/idYOUR_IOS_APP_ID)
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/hackernows/id6749719853)
 
 Mac app: Coming soon.
 <!-- This is a comment 
